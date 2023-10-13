@@ -33,24 +33,17 @@ Before running the tests, ensure you have the following prerequisites installed:
 ## Usage
 
 This section provides an overview of how to use the tests within `task_completed_tests.java`.
-
-### 1. Clone the Repository
-
-Clone this GitHub repository to your local machine using the following command:
-
-```bash
-git clone https://github.com/JyothiS95/FC_Assignment.git
-****### 2. Open the Project in Your IDE
+### 2. Open the Project in Your IDE
 Open the project in your preferred Java IDE (e.g., IntelliJ IDEA).
-****### 3. Configure Dependencies
+### 3. Configure Dependencies
 Make sure you have configured all necessary dependencies, libraries, and test automation tools in your IDE.
 
-**## Test Execution**
+## Test Execution
 This section provides additional information about executing the tests, including how to configure and customize test execution parameters.
 Execute the test methods from task_completed_tests.java using your test automation framework or IDE's testing capabilities.
 or run the testng.xml file
 
-**## Author**
+## Author
 [Your Name]
 [Your Email Address]
 [Link to your website or GitHub profile]
@@ -59,7 +52,24 @@ Feel free to update this README with more specific details about your project, i
 Please adjust the placeholders and content as needed to make the documentation more relevant to your specific project.
 
 
+### 1. Clone the Repository
 
+Clone this GitHub repository to your local machine using the following command:
+git clone https://github.com/JyothiS95/FC_Assignment.git
+
+### 2. Open the Project in Your IDE
+Open the project in your preferred Java IDE (e.g., IntelliJ IDEA).
+### 3. Configure Dependencies
+Make sure you have configured all necessary dependencies, libraries, and test automation tools in your IDE.
+
+## Test Execution
+This section provides additional information about executing the tests, including how to configure and customize test execution parameters.
+Execute the test methods from task_completed_tests.java using your test automation framework or IDE's testing capabilities.
+or run the testng.xml file
+
+## Author
+[Jyothi Singh]
+[jyothi.d.singh21095@gmail.com]
 
 
 
