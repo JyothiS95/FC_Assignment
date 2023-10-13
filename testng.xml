@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="/Users/jyothisingh/IdeaProjects/FanCodeProject/src/test">
+        <classes>
+            <class name="com.api.tests.task_completed_tests">
+                <methods><include name="verify_50perent_completion_percentage"/></methods>
+            </class>
+        </classes>
+    </test>
+</suite>
