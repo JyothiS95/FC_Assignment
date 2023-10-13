@@ -9,9 +9,7 @@ This README provides an overview of the FanCode Assignment project and detailed 
 3. [Prerequisites](#prerequisites)
 4. [Usage](#usage)
 5. [Test Execution](#test-execution)
-6. [Contributing](#contributing)
-7. [License](#license)
-8. [Author](#author)
+6. [Author](#author)
 
 ## Project Overview
 
