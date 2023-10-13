@@ -1,4 +1,4 @@
-# FanCode Assignment
+# FC Assignment
 
 This README provides an overview of the FanCode Assignment project and detailed documentation for the `task_completed_tests.java` Java file, which contains tests for verifying the completion percentage of tasks.
 
